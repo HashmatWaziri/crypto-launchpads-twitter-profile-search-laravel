@@ -1,1 +1,1 @@
-# crypto-launchpads-twitter-profile-search-laravel
+This code is an example of how to use the Laravel framework and the Twitter API to search for Twitter profiles with “launchpad” in their description. The code includes a TwitterController that uses the TwitterAPIExchange package to perform the search and retrieve the results. The relevant data is then filtered and formatted for display in a table view. The code also includes example routes and views for displaying the data in a Laravel app.
